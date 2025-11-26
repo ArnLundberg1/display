@@ -1,0 +1,12 @@
+[
+    {
+        "number": "805",
+        "destination": "Skarpnäck",
+        "stations": ["Hökarängen", "Farsta strand", "Sköndal", "Skarpnäck"]
+    },
+    {
+        "number": "4",
+        "destination": "Fridhemsplan",
+        "stations": ["Telefonplan", "Mälarhöjden", "Liljeholmen", "Fridhemsplan"]
+    }
+]
