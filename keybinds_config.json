@@ -1,0 +1,5 @@
+[
+    {"label": "← Föregående", "action": "prev_station"},
+    {"label": "Nästa →", "action": "next_station"},
+    {"label": "Hem", "action": "home"}
+]
